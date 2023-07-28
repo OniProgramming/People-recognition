@@ -1,3 +1,5 @@
 # People-recognition
 
- <img src="images\Capture1.PNG">
+ <img src="before.jpg">
+
+ <img src="after.jpg">
