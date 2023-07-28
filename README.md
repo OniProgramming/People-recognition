@@ -61,7 +61,7 @@ This displays the original image with the final bounding boxes drawn around the 
 10. Close all open windows:
 - cv2.destroyAllWindows()
 
-The result before and after can be seen bellow!
+The result before and after suppression can be seen bellow!
 
 
  <img src="before.jpg">
